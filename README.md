@@ -1,12 +1,27 @@
-# nkey
+# app_verzel
 
-A new Flutter project. Created by Slidy
+App teste
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Este projeto permite calcular a conversão entre moedas.
 
-A few resources to get you started if this is your first Flutter project:
+## Instalação
+
+Para executar este projeto, use o flutter no channel 'stable':
+
+Verifique o channel que você está através do comando flutter channel,
+caso esteja em outro channel, execute estes dois comandos abaixo:
+
+flutter channel stable;
+flutter upgrade;
+
+Depois para executar o projeto, execute estes comandos abaixo:
+
+flutter clean;
+flutter run;
+
+# References
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
